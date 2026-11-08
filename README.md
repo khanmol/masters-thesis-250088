@@ -1,0 +1,1 @@
+The assignment clearly lists out all the necessary markings, so this github repo aims to reduce double corrections when editing the research paper to align with the marking criteria. It is essential to check all the updates that were done in each commits.
